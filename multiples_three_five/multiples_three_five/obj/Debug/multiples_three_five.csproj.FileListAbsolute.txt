@@ -1,0 +1,7 @@
+D:\Projects\multiples_three_five\multiples_three_five\obj\Debug\multiples_three_five.csprojAssemblyReference.cache
+D:\Projects\multiples_three_five\multiples_three_five\obj\Debug\multiples_three_five.csproj.CoreCompileInputs.cache
+D:\Projects\multiples_three_five\multiples_three_five\bin\Debug\multiples_three_five.exe.config
+D:\Projects\multiples_three_five\multiples_three_five\bin\Debug\multiples_three_five.exe
+D:\Projects\multiples_three_five\multiples_three_five\bin\Debug\multiples_three_five.pdb
+D:\Projects\multiples_three_five\multiples_three_five\obj\Debug\multiples_three_five.exe
+D:\Projects\multiples_three_five\multiples_three_five\obj\Debug\multiples_three_five.pdb
